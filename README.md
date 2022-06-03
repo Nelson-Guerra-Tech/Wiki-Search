@@ -2,9 +2,9 @@
  
 - A small project using the Wikipedia API to display searches made
 
-<video width="320" height="240" controls>
-  <source src="https://media.giphy.com/media/QPw8r1VxaiF3yPTisq/giphy.gif" type="video/mp4">
-</video>
+- https://user-images.githubusercontent.com/62409790/171866208-cb98a05b-80f7-4aa4-87d8-0db5d1003d47.mp4
+
+
 
 #### API DOCS
 
